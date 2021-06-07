@@ -9,7 +9,7 @@ class GitApplicationTests {
     @Test
     void contextLoads() {
         int a = 10;
-        system.out.println(a);
+        System.out.println(a);
         System.out.println("git");
 
 
